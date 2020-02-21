@@ -8,5 +8,6 @@ public class SampleTest {
 	public void SampleMethod()
 	{
 		System.out.print("This is a sample Test Method");
+		//lekha added comment
 	}
 }
